@@ -1,1 +1,3 @@
 # tech-world
+ Techworld is focused on digital disruption- the space where innovation and entrepreneurship meet business tech.  It offers the latest news and views on innovation, startups, developers, disruptive technology and their impact on UK business and society
+Techworld delivers a unique blend of analysis, features and expert advice on topics including mobile, apps, AI, drones, cloud, cyber security, big data, wearable tech, social media, user experience, e-commerce and IT startups. It highlights the impact of 3rd platform technologies on a set of industries including financial services, retail, travel and leisure, public sector, manufacturing, automotive and creative and digital. 
